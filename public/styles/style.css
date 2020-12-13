@@ -1,0 +1,28 @@
+body{
+    padding-bottom: 100px;
+    background-image: url(https://images7.alphacoders.com/805/805197.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1,p,#texto{
+    color: white;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    display:block;
+    margin:auto;
+}
+.icon2{
+    width: 50px;
+    height: 50px;
+    display:block;
+    margin:auto;
+}
+th,td,tr{
+    text-align: center;
+}
